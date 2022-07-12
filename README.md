@@ -6,6 +6,6 @@ This code can be used to make a map of highways, roads, parks, rivers, cycleways
 
 Cristine Rauber (rauberoliveira at gmail.com)
 
-#License
+# License
 
-[MIT]()
+[MIT](https://github.com/rauberc/lancaster-map/blob/main/LICENSE)
